@@ -4,7 +4,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
 **About Me**:
 
-I´m a Data Scientist specialized in Machine Learning, with experience in Python and tools such as Scikit-Learn, Matplotlib, and TensorFlow for the development of predictive models and data workflow automation. I'm a Electronics and Automation Engineer with a published academic paper on a hydroponic cultivation system monitored through AI and computer vision, integrating Raspberry Pi and environmental sensors.
+I´m a Data Scientist specialized in Machine Learning, with experience in Python and tools such as Scikit-Learn, Matplotlib, and TensorFlow for the development of predictive models and data workflow automation. I'm an Electronics and Automation Engineer with a published academic paper on a hydroponic cultivation system monitored through AI and computer vision, integrating Raspberry Pi and environmental sensors.
 
 
 
